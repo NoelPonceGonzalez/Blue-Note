@@ -1,7 +1,7 @@
 "use client"
 
 import Login from '@/components/layout/guest/auth/login';
-import Footer from '@/components/ui/Footer'; // Actualiza la ruta de importación
+import Footer from '@/components/ui/footer'; // Actualiza la ruta de importación
 import Icons from '@/components/ui/icons';
 import { getUserSession } from "@/lib/data";
 import Link from 'next/link';

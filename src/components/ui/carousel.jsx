@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-function Carousel({ items }) {
+const Carousel = ({ items }) => {
     const [currentItemIndex, setCurrentItemIndex] = useState(0);
 
     const prevItem = () => {

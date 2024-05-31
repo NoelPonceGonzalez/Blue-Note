@@ -1,6 +1,6 @@
 'use client';
 
-import CustomCarousel from '@/components/ui/Carousel';
+import CustomCarousel from '@/components/ui/carousel';
 import NavBar from '@/components/ui/nav-bar';
 import NavBarPhone from '@/components/ui/nav-bar_phone';
 
